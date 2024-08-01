@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue Wu's Website"
+title                    : "Zheng Huang's Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://yuewu0301.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YueWu0301.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YueWu0301/YueWu0301.github.io"
+repository               : "tttae/YueWu0301.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue Wu"
+  name             : "Zheng Huang"
   avatar           : "YueWu.png"
-  bio              : "Southern University of Science and Technology"
+  bio              : "PhD @ Dartmouth College"
   location         : "Hanover, NH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
