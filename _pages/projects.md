@@ -5,9 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-projects here
+Here are several course projects~
+Loading~
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
@@ -15,4 +16,4 @@ projects here
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
