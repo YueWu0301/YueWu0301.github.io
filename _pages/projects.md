@@ -39,6 +39,28 @@ You can find our project paper [here](../assets/bilibili_analysis.pdf)
 You can find our code&slides [here](https://github.com/YueWu0301/Bilibili_analysis)
 
 
+# Customer Analysis
+## 2023/5
+**Abstract**
+In this post, we used data from kaggle related to credit card customers. We first carry out suﬀicient data
+preprocessing, including data cleaning, data description and brief statistics description. After a series of variable adjustment and principal component analysis, we divided users into four categories, and each group showed
+unique consumption habits and credit behavior. We also selected data related to credit limit according to distance
+correlation, and classified customers by KMeans algorithm according to these data, and obtained customer groups
+with low credit, medium credit and high credit. We also perform regression analysis on the credit limit, and
+give a classification-based random forest regression method that performs better than the ordinary random forest
+regression. Finally, we also discuss the mainstream clustering methods and the reasons for choosing KMeans in
+this dataset.
+**Keywords**: PCA , KMeans , Regression , Clustering ，Dimension Reduction，Feature selection
+
+You can find our project paper [here](../assets/customer_analysis.pdf)
+
+
+You can find our slides [here](../assets/customer_analysis.ppt)
+
+
+
+
+
 Still Loading~
 
 <!-- {% if site.author.googlescholar %}
