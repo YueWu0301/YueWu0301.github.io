@@ -9,8 +9,8 @@ Here are several course projects~
 
 
 
-# Airbnb Analysis
-## 2024/5
+## Airbnb Analysis
+### 2024/5
 
 **Abstract**:We first conducted an exploratory analysis of the data, then conducted relevant time series analysis, discovered quarterly changes in housing popularity, built multiple models for detailed regression analysis and testing, built a recommendation system based on the data, and, based on reviews, drew a word cloud diagram.
 
@@ -21,8 +21,11 @@ You can find our project website [here](https://yuewu0301.github.io/Airbnb_analy
 
 You can find our code&slides [here](https://github.com/YueWu0301/Airbnb_analysis)
 
-# Bilibili Analysis
-## 2023/10
+
+-----
+
+## Bilibili Analysis
+### 2023/10
 - Utilized techniques such as **ANOVA, two-way ANOVA, and ANCOVA** to **quantify the significant impact of factors** such as tags, gender, video length, and their interactions on the number of followers.
 
 - Employed **GMM** fitting to **determine the boundary** between long, medium, and short videos on Bilibili with 6.17 and 18 minutes and explored the relationship between video length and the number of followers.
@@ -39,8 +42,11 @@ You can find our project paper [here](../assets/bilibili_analysis.pdf)
 You can find our code&slides [here](https://github.com/YueWu0301/Bilibili_analysis)
 
 
-# Customer Analysis
-## 2023/5
+-----
+
+
+## Customer Analysis
+### 2023/5
 **Abstract**
 In this post, we used data from kaggle related to credit card customers. We first carry out suﬀicient data
 preprocessing, including data cleaning, data description and brief statistics description. After a series of variable adjustment and principal component analysis, we divided users into four categories, and each group showed

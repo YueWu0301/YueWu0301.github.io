@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "SimLOB: Learning Representations of Limited Order Book for Financial Market Simulation"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
