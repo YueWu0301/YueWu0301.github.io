@@ -25,6 +25,7 @@ You can find my CV [here](../assets/YueWu_CV.pdf).
 
 You can find my Transcript [here](../assets/YueWu_Transcript.pdf).
 
+aka
 
 
 [Email](mailto:wuy2021@mail.sustech.edu.cn) / [Github](https://github.com/YueWu0301) / [Wechat](../assets/wechat.png)
