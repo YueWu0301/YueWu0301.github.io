@@ -23,9 +23,11 @@ Next, since we currently lack historical data for the knowledge graph, we constr
 
 We are now in the process of designing algorithms and experiments, hoping to incorporate LLMs for text analysis and processing.
 
+We use PyG, network , wandb ... to build our experimental pipeline efficiently.
+
 
 ## What I get
-The biggest gain from this project has been the improvement in my source code reading skills and my knowledge in the field of Graph Learning. Since I needed to design experiments based on GreaseLM, I thoroughly read the relevant source code and made modifications based on it, significantly enhancing my ability to read source code. Additionally, during the literature review phase, I gained a deeper understanding of Graph Learning.
+The biggest gain from this project has been the improvement in my source code reading skills and my knowledge in the field of Graph Learning. Since I needed to design experiments based on GreaseLM, I thoroughly read the relevant source code and made modifications based on it, significantly enhancing my ability to read source code. Additionally, during the literature review phase, I gained a deeper understanding of Graph Learning. I'm a good user of PyG, networl, wandb etc. right now~
 
 Currently, I am very eager to combine Graphs and LLMs to construct AGI (a naive dream :) .
 
