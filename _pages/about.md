@@ -45,6 +45,7 @@ I am **a good collaborator, communicator, and listener**. I often work together 
 **I am very very optimistic, with strong resilience and adaptability, a positive mindset, and stable emotion.(乐子人 in Chinese)**
 
 **Q: Why do you want to pursue a PhD?**
+still writing~ wait wait~
 
 <!-- Q: 为什么你本科期间会进行这么多不同方向的研究方向？
 A：在刚开始科研时候我就在纠结是应当选择多个不同方向还是沿着一个方向做更多工作，最后因为我希望在本科期间探索尽可能多的科研方向，所以我开启了很多不同方向的project，比如偏算法设计的AI4Finance，偏应用的AI&Medicine，Alzheimer Audio Analysis，以及之后我个人对图神经网络感兴趣，进行了Graph Learning 相关研究。最终来看这也确实很有帮助，不同的方向有着不同的研究思路，并且我学到了很多不同的技术，了解了很多前沿痛点，极大的扩宽了我的知识面，因此我很开心我当初做了这样的决定。
