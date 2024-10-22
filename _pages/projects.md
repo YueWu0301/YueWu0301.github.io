@@ -45,7 +45,7 @@ You can find our code&slides [here](https://github.com/YueWu0301/Bilibili_analys
 -----
 
 
-## Customer Analysis
+## Exploratory Analysis on Customer Segmentation Data
 ### 2023/5
 **Abstract**
 In this post, we used data from kaggle related to credit card customers. We first carry out suﬀicient data
@@ -65,9 +65,16 @@ You can find our slides [here](../assets/customer_analysis.ppt)
 
 
 
+---
+## Exploratory Data Mining Based on New York City Taxi Data 
+### 2022/10
+- Based on **Pyspark**, 6 million taxi data were cleaned and preprocessed, and data visualization was performed using heat maps, Sankey diagrams, etc.
+- Polynomial regression fitting is used to infer the taxi fare method in New York, and reasonable vehicle
+dispatch suggestions are provided to taxi drivers in various regions to maximize profits.
+- Combining the Spearman coefficient, random forest regression analysis, and XGboost regression analysis the relationship and importance of different factors (such as period, urban area, number of people) and
+taxi travel prices were obtained.
 
 
-Still Loading~
 
 <!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
