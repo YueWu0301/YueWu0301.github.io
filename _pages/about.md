@@ -17,9 +17,14 @@ I participated in multiple projects across different fields (including Deep Lear
 
 After multiple research experiences, I have discovered that I am deeply interested in several areas related to AI, particularly in: [**Graph Learning**](https://yuewu0301.github.io/research/2024-08-2024-10-GraphLearning)(Graph Reasoning, Graph Summary, Graph&LLM), **NLP&LLM** (Data Augmentation, RAG, Complex Reasoning, LLM&Graph), **AI4Medicine**(Medical Imaging Analysis, Audio Analysis, etc).
 
+
+
 **I would be delighted to connect and collaborate with everyone! Email: wuy2021@mail.sustech.edu.cn** 
 
 <!-- I was advised by [Prof. Yang](https://cse.sustech.edu.cn/faculty/~yangp/) of Financial Simulation Intelligence Lab from [School of Computer Science](https://cse.sustech.edu.cn/), Southern University of Science and Technology. -->
+
+You can find some of my research experiences in the Research section, course projects I've worked on in the Projects section, my internship experiences in the Intern section, and preprints, published paper in the Publications section. In the News section, you can see some highlights&awards about me. I will share my thoughts and technical insights in the Blog section, while in the Life section, I will share some of my hobbies and extracurricular activities~
+
 
 You can find my CV [here](../assets/YueWu_CV.pdf).
 

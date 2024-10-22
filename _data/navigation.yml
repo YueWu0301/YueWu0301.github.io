@@ -15,6 +15,12 @@ main:
   
   - title: "Publications"
     url: /publications/
+
+  - title: "News"
+    url: /news/
+    
+  - title: "Leisure"
+    url: /leisure/
   # - title: "Talks"
   #   url: /talks/    
 

@@ -193,6 +193,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
+  leisure:
+    output: true
+    permalink: /:collection/:path/
 
   # portfolio:
   #   output: true
@@ -267,6 +273,22 @@ defaults:
   - scope:
       path: ""
       type: blog
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: leisure
     values:
       layout: single
       author_profile: true
