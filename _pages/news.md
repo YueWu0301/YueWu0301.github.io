@@ -31,7 +31,7 @@ applications, read several papers, and learned Pytorch_Geometric.
 - **06/2023**: Organizing and Participating in a Self-Supervised Learning Seminar
 
 Based on 《A Cookbook of Self-Supervised Learning》， we organized a seminar to delve into the topics of self-supervised learning and meta-learning. I extensively studied relevant literature and conducted multiple knowledge-sharing sessions.
-(Seminar Link) [https://niusj03.github.io/23summer/docs/introduction/]
+[Seminar Link](https://niusj03.github.io/23summer/docs/introduction/)
 
 - **11/2022**: Second Class of the Merit Student Scholarship (20%, SUSTech)  
 
