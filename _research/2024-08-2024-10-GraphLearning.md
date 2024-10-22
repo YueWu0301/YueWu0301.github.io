@@ -2,7 +2,7 @@
 title: "Personalized Knowledge Graph Summarization with LLM"
 collection: research
 permalink: /research/2024-08-2024-10-GraphLearning
-excerpt: 'Time period: 08/2024 - present, Supervisor: Prof.   Yujun Yan, Dartmouth '
+excerpt: '08/2024 - present, Supervisor: Prof.   Yujun Yan, Dartmouth '
 # date: 2024-0-01
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
