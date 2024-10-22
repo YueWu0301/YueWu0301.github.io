@@ -45,7 +45,15 @@ I am **a good collaborator, communicator, and listener**. I often work together 
 **I am very very optimistic, with strong resilience and adaptability, a positive mindset, and stable emotion.(乐子人 in Chinese)**
 
 **Q: Why do you want to pursue a PhD?**
-still writing~ wait wait~
+First and foremost, I am passionate about research: I enjoy learning about cutting-edge technologies, exploring the unknown, I get strong achievement during these process. 
+During my PhD, I want to do some meaningful and impactful research, contributing something of my own to the field.
+
+I also aim to further enhance my problem-solving, learning, and innovative abilities through the PhD journey, improve myself. I look forward to expanding my expertise to become a specialist in my area.
+
+Finally, I view the PhD as a mental marathon, a time for personal growth. I plan to reflect on how to reconcile with myself, engage harmoniously with the world, and pursue inner peace, striving to lead a more tranquil and balanced life.
+
+**Q: What do you plan to do in the future?**
+Currently, I plan to pursue an academic position or a research role in industry after completing my PhD, continuing my research endeavors. Of course, I am open to exploring other fields in the future, but for now, this is my intended path.
 
 <!-- Q: 为什么你本科期间会进行这么多不同方向的研究方向？
 A：在刚开始科研时候我就在纠结是应当选择多个不同方向还是沿着一个方向做更多工作，最后因为我希望在本科期间探索尽可能多的科研方向，所以我开启了很多不同方向的project，比如偏算法设计的AI4Finance，偏应用的AI&Medicine，Alzheimer Audio Analysis，以及之后我个人对图神经网络感兴趣，进行了Graph Learning 相关研究。最终来看这也确实很有帮助，不同的方向有着不同的研究思路，并且我学到了很多不同的技术，了解了很多前沿痛点，极大的扩宽了我的知识面，因此我很开心我当初做了这样的决定。
@@ -58,7 +66,13 @@ A：首先我认为我是一个很有探索欲望的人：我非常喜欢了解�
 其次我认为我的思维比较灵活，有较强独立思考能力，在阅读文章，开组会时经常可以比较敏锐的提出不常见的问题，经常可以站在不同角度审视当前问题与算法，给出不同的改进思路。我在构造实验，构造算法时有较多的idea，能够设计出全新的路径。
 我是一个很好的合作者，交流者，倾听者。我在课程、科研中经常与人一起合作，我可以很及时高效的与队友甲流，并且lead，推进整个项目高效前进。我能够抓住问题的重点并且进行合适的分工，积极接收他人的批评并且改进，及时与队友沟通难点等等。
 我非常的乐观，有很强的抗压能力和适应能力，心态积极，情绪非常稳定~（在中国被成为乐子人） -->
+<!-- 
+**Q: Why do you want to pursue a PhD?**
+首先也是最重要的，我喜欢科研：学习了解前沿技术，探索未知，并且享受这个过程。我希望在这段期间可以静下心来做一些有意义的有帮助的研究，做一些自己的贡献。
+我希望历经PhD进一步锻炼我的问题解决能力，学习能力，创新能力等等，进一步提升自己。与此同时也进一步丰富相关知识，成为一个领域的专家。
+最后我将PhD视为一段精神上的马拉松，我也会期间进行一些“内心的修行”，我会思考如何与自己和解，如何与这个世界相处，追求内心的安宁，过一个更为 peace 的生活
 
-
+**未来做什么？**
+目前我希望PhD后进入教职 或者 公司的科研岗位，继续从事科研的研究。当然未来我也会期待进行一些其它领域的尝试，但是目前计划是这样的。 -->
 
 [Email](mailto:wuy2021@mail.sustech.edu.cn) / [Github](https://github.com/YueWu0301) / [Wechat](../assets/wechat.png)
