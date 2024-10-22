@@ -28,6 +28,7 @@ You can find my Transcript [here](../assets/YueWu_Transcript.pdf).
 ----
 # Some QA:
 **Q: Why did you pursue so many different research directions during your undergraduate studies?**
+
 I wanted to explore as many research directions as possible during my undergraduate years in order **to experience different types of research**, which led me to start several projects across various fields. These included algorithm design in AI4Finance, applications in Alzheimer's Audio Analysis, and later, my personal interest in graph neural networks, where I conducted research related to Graph Learning.  These experience has been incredibly beneficial. Each direction offered unique research perspectives, and I learned various techniques while gaining insights into cutting-edge challenges. **This significantly broadened my knowledge, and I’m glad I made that decision.**
 
 Additionally, I treat each research project with great seriousness, receiving high praise from my supervisors and **for each project I achieve tangible outcomes, not just experiences** (including one first-author paper, co-author paper, some models that are used in company).
@@ -44,13 +45,18 @@ I am **a good collaborator, communicator, and listener**. I often work together 
 
 **I am very very optimistic, with strong resilience and adaptability, a positive mindset, and stable emotion.(乐子人 in Chinese)**
 
+
+
 **Q: Why do you want to pursue a PhD?**
+
 First and foremost, I am passionate about research: I enjoy learning about cutting-edge technologies, exploring the unknown, I get strong achievement during these process. 
 During my PhD, I want to do some meaningful and impactful research, contributing something of my own to the field.
 
 I also aim to further enhance my problem-solving, learning, and innovative abilities through the PhD journey, improve myself. I look forward to expanding my expertise to become a specialist in my area.
 
 Finally, I view the PhD as a mental marathon, a time for personal growth. I plan to reflect on how to reconcile with myself, engage harmoniously with the world, and pursue inner peace, striving to lead a more tranquil and balanced life.
+
+
 
 **Q: What do you plan to do in the future?**
 Currently, I plan to pursue an academic position or a research role in industry after completing my PhD, continuing my research endeavors. Of course, I am open to exploring other fields in the future, but for now, this is my intended path.
