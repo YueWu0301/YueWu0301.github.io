@@ -54,7 +54,7 @@ I am **a good collaborator, communicator, and listener**. I often work together 
 
 **Q: Why do you want to pursue a PhD?**
 
-First and foremost, I am passionate about research: I enjoy learning about cutting-edge technologies, exploring the unknown, I get strong achievement during these process. 
+First and foremost, I am passionate about research: I enjoy learning about cutting-edge technologies, exploring the unknown, I get strong satisfaction during these process. 
 During my PhD, I want to do some meaningful and impactful research, contributing something of my own to the field.
 
 I also aim to further enhance my problem-solving, learning, and innovative abilities through the PhD journey, improve myself. I look forward to expanding my expertise to become a specialist in my area.
