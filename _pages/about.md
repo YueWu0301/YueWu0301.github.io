@@ -46,7 +46,7 @@ Firstly, I consider myself a **very curious and passion person**. I enjoy learni
 
 Secondly, I believe I have a **flexible mindset and strong independent thinking skills**. I often raise  uncommon questions during readings papers and group meetings, and I can generate problems and algorithms from different perspectives, providing various improvement ideas. I generate many ideas when constructing experiments and perspectives, design entirely new algorithm.
 
-I am **a good collaborator, communicator, and listener**. I often work together with others in courses and research projects, and I can quickly and efficiently coordinate with my teammates, leading and advancing the entire project effectively. I focus on the key issues, ensure appropriate task division, and am receptive to feedback for improvement. I communicate challenges with my teammates in a timely manner, among other things.
+I am **a good collaborator, communicator, and listener**. I often work together with others in courses and research projects, and I can quickly and efficiently coordinate with my teammates, leading and advancing the entire project effectively. I focus on the key issues, ensure appropriate task division, and am receptive to feedback for improvement.
 
 **I am very very optimistic, with strong resilience and adaptability, a positive mindset, and stable emotion.(乐子人 in Chinese)**
 
