@@ -29,7 +29,7 @@ I am passionate about sports, including long-distance running, basketball, and o
 - and **first place** at the city orienteering competition at   **05/2024**
 - Secured **third place** in a provincial orienteering competition at **10/2023**
 - Secured **fourth place** in a provincial orienteering competition at **10/2022**
-- Served as the long-term captain of the orienteering team **09/2023 - present**.  
+- Served as the long-term captain of the orienteering team **09/2023 - present**
 
 
 
