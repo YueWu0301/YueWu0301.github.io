@@ -15,7 +15,7 @@ During my undergraduate studies, I extensively studied computer science, mathema
 I participated in multiple projects across different fields (including Deep Learning & Finance, Graph Learning, LLM , Medical Imaging and Audio Analysis) and have several experiences as RA.
 
 
-After multiple research experiences, I have discovered that I am deeply interested in several areas related to AI, particularly in: [**Graph Learning**](https://yuewu0301.github.io/research/2024-08-2024-10-GraphLearning)(Graph Reasoning, Graph Summary, Graph&LLM), **NLP&LLM** (Data Augmentation, RAG, Complex Reasoning, LLM&Graph), **AI4Medicine**(Medical Imaging Analysis, Audio Analysis, etc).
+<!-- After multiple research experiences, I have discovered that I am deeply interested in several areas related to AI, particularly in: [**Graph Learning**](https://yuewu0301.github.io/research/2024-08-2024-10-GraphLearning)(Graph Reasoning, Graph Summary, Graph&LLM), **NLP&LLM** (Data Augmentation, RAG, Complex Reasoning, LLM&Graph), **AI4Medicine**(Medical Imaging Analysis, Audio Analysis, etc). -->
 
 
 
