@@ -5,9 +5,12 @@ permalink: /news/
 author_profile: true
 ---
 Some news here~
+- **10/2024**: One paper (First author) submitted to [ADJ](https://alz-journals.onlinelibrary.wiley.com/journal/15525279/homepage/call-for-papers-spotligh-east-asia) CCF A, IF=13.0, you can see our mnuscript  [here](../assets/ADJ.pdf)
+
+
 
 - **10/2024**: The Grand Prize of School Motto “Innovation” Series Scholarship (1%, SUSTech, Top 9)  
-  Reported by the school: [Link](https://mp.weixin.qq.com/s/H5Xk94gjRFxsmj_T0xkG7g)  
+  Reported by the school: [Link](https://mp.weixin.qq.com/s/heS9NnOn5xQIHOgug80f2w)  
 
 - **10/2024**: First Class of the Merit Student Scholarship (10%, SUSTech)  
 
@@ -19,7 +22,7 @@ we extensively studied GNN, Knowledge Graph, Graph Reasoning, Graph Recommendati
 applications, read several papers, and learned Pytorch_Geometric.
 
 - **01/2024**: Student Cadre Model of Excellence (1%, SUSTech, Top 8)  
-  Reported by the school: [Link](https://mp.weixin.qq.com/s/heS9NnOn5xQIHOgug80f2w)  
+  Reported by the school: [Link](https://mp.weixin.qq.com/s/H5Xk94gjRFxsmj_T0xkG7g)  
 
 
 - **12/2023**: First Prize in the China Undergraduate Mathematical Contest in Modelling (10%, Guangdong Province)  
