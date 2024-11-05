@@ -14,6 +14,7 @@ Here are several course projects~
 
 **Abstract**:We first conducted an exploratory analysis of the data, then conducted relevant time series analysis, discovered quarterly changes in housing popularity, built multiple models for detailed regression analysis and testing, built a recommendation system based on the data, and, based on reviews, drew a word cloud diagram.
 
+
 **Keywords**: EDA, time series analysis, regression, recommendation system
 
 You can find our project website [here](https://yuewu0301.github.io/Airbnb_analysis/)
@@ -56,6 +57,8 @@ with low credit, medium credit and high credit. We also perform regression analy
 give a classification-based random forest regression method that performs better than the ordinary random forest
 regression. Finally, we also discuss the mainstream clustering methods and the reasons for choosing KMeans in
 this dataset.
+
+
 **Keywords**: PCA , KMeans , Regression , Clustering ，Dimension Reduction，Feature selection
 
 You can find our project paper [here](../assets/customer_analysis.pdf)

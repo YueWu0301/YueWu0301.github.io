@@ -23,7 +23,7 @@ I participated in multiple projects across different fields (including Deep Lear
 
 <!-- I was advised by [Prof. Yang](https://cse.sustech.edu.cn/faculty/~yangp/) of Financial Simulation Intelligence Lab from [School of Computer Science](https://cse.sustech.edu.cn/), Southern University of Science and Technology. -->
 
-You can find some of my research experiences in the **Research** section, several course projects in the **Projects** section, my internship expeiriences in the **Intern** section, my preprints and published paper in the **Publications** section, some awards, news and highlight in the Award section, my hobbies and extracurricular activities in the **Leisure** section. I will share my thoughts and technical insights in the **Blog** section.
+You can find some of my research experiences in the **Research** section, several course projects in the **Projects** section, my internship expeiriences in the **Intern** section, my preprints and published paper in the **Publications** section, some awards, news and highlight in the **Highlights** section, my hobbies and extracurricular activities in the **Leisure** section. I will share my thoughts and technical insights in the **Blog** section.
 
 
 

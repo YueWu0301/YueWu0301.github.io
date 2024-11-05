@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "Highlights"
 permalink: /news/
 author_profile: true
 ---
@@ -16,8 +16,7 @@ Some news here~
 
 
 - **03/2024** Organizing and Participating in a Graph Neural Networks Seminar
-- 
-I organized a seminar focused on Graph Learning, based on SC224W and Graph Representation Learning;
+  - I organized a seminar focused on Graph Learning, based on SC224W and Graph Representation Learning;
 we extensively studied GNN, Knowledge Graph, Graph Reasoning, Graph Recommendation and its
 applications, read several papers, and learned Pytorch_Geometric.
 
@@ -32,8 +31,7 @@ applications, read several papers, and learned Pytorch_Geometric.
 - **11/2023**: First Class of the Merit Student Scholarship (10%, SUSTech, First Place)  
 
 - **06/2023**: Organizing and Participating in a Self-Supervised Learning Seminar
-
-Based on 《A Cookbook of Self-Supervised Learning》， we organized a seminar to delve into the topics of self-supervised learning and meta-learning. I extensively studied relevant literature and conducted multiple knowledge-sharing sessions.
+  - Based on 《A Cookbook of Self-Supervised Learning》， we organized a seminar to delve into the topics of self-supervised learning and meta-learning. I extensively studied relevant literature and conducted multiple knowledge-sharing sessions.
 [Seminar Link](https://niusj03.github.io/23summer/docs/introduction/)
 
 - **11/2022**: Second Class of the Merit Student Scholarship (20%, SUSTech)  
