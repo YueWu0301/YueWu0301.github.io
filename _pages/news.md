@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "News"
+title: "Awards"
 permalink: /news/
 author_profile: true
 ---
 Some news here~
-- **10/2024**: One paper (First author) submitted to [ADJ](https://alz-journals.onlinelibrary.wiley.com/journal/15525279/homepage/call-for-papers-spotligh-east-asia) CCF A, IF=13.0, you can see our mnuscript  [here](../assets/ADJ.pdf)
+- **10/2024**: One paper (First author) submitted to [ADJ](https://alz-journals.onlinelibrary.wiley.com/journal/15525279/homepage/call-for-papers-spotligh-east-asia) CCF A, IF=13.0, you can see our manuscript  [here](../assets/ADJ.pdf)
 
 
 
