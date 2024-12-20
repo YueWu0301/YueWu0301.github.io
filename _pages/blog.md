@@ -19,6 +19,6 @@ Here are several Blogs!
 
 {% include base_path %}
 
-{% for post in site.intern reversed %}
+{% for post in site.blog reversed %}
   {% include archive-single.html %}
 {% endfor %}
